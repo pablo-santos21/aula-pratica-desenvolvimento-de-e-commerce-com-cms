@@ -1,0 +1,42 @@
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+#home {
+  background-image: url('../imgs/ternos.jpg');
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+#home span {
+  color: coral;
+}
+
+.nav-buttons {
+  margin-left: 60%;
+}
+
+#rodape {
+  background: #bfbfbf;
+}
+
+.footer-logo {
+  width: 100px;
+}
+
+.footer-nav {
+  display: block;
+  text-decoration: none;
+}
